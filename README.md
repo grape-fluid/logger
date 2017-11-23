@@ -1,4 +1,4 @@
-# GrapeFluid/Logger
+# GrapeFluid/Logger <img align="right" height="40px" src="https://developers.grapesc.cz/logo_inline.png">
 
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/grape-fluid/logger.svg?style=flat-square)](https://packagist.org/packages/grape-fluid/logger)
 [![Build Status](https://img.shields.io/travis/grape-fluid/logger.svg?style=flat-square)](https://travis-ci.org/grape-fluid/logger)
